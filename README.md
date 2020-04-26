@@ -1,2 +1,2 @@
-# Jogo do acerto
- Um jogo no qual o computador gera um número e pede para o usuário tentar acertar.
+# Jogo-do-acerto
+ O computador irá gerar um número e pedirá para o usuário fazer tentativas e ver se consegue acertar.
