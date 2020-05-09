@@ -1,5 +1,5 @@
 # Jogo_do_acerto
- O computador gera um número e pede para o usuário fazer tentativas. Ao receber a entrada, analisa e responde conforme a resposta do usuário: se errou e precisa aumentar ou diminuir o valor ou se acertou. Ao final, imprime a quantidade de tentativas realizadas.
+ O computador gera um número e pede para o usuário fazer tentativas. Após receber a entrada, analisa e responde conforme a resposta do usuário: se errou e precisa aumentar ou diminuir o valor ou se acertou. Ao final, imprime a quantidade de tentativas realizadas.
  
  É um jogo origináriamente simples, utilizando apenas o prompt.
  
